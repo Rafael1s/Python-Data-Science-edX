@@ -55,14 +55,14 @@ The conditions are as follows: No Satarday, No Sunday, 0 < TimeHour < 6.
 
 ### Only Satarday from 13:00 to 16:00, all phones
 
-Phone:  4638472273 all rows of coord from 13:00 to 16:00 =  133
-Phone:  1559410755 all rows of coord from 13:00 to 16:00 =  396
-Phone:  4931532174 all rows of coord from 13:00 to 16:00 =  96
-Phone:  2419930464 all rows of coord from 13:00 to 16:00 =  75
-Phone:  1884182865 all rows of coord from 13:00 to 16:00 =  98
-Phone:  3688089071 all rows of coord from 13:00 to 16:00 =  58
-Phone:  4555003213 all rows of coord from 13:00 to 16:00 =  93
-Phone:  2068627935 all rows of coord from 13:00 to 16:00 =  200
-Phone:  2894365987 all rows of coord from 13:00 to 16:00 =  413
-Phone:  8549533077 all rows of coord from 13:00 to 16:00 =  317
+* Phone:  4638472273 all rows of coord from 13:00 to 16:00 =  133
+* Phone:  1559410755 all rows of coord from 13:00 to 16:00 =  396
+* Phone:  4931532174 all rows of coord from 13:00 to 16:00 =  96
+* Phone:  2419930464 all rows of coord from 13:00 to 16:00 =  75
+* Phone:  1884182865 all rows of coord from 13:00 to 16:00 =  98
+* Phone:  3688089071 all rows of coord from 13:00 to 16:00 =  58
+* Phone:  4555003213 all rows of coord from 13:00 to 16:00 =  93
+* Phone:  2068627935 all rows of coord from 13:00 to 16:00 =  200
+* Phone:  2894365987 all rows of coord from 13:00 to 16:00 =  413
+* Phone:  8549533077 all rows of coord from 13:00 to 16:00 =  317
 
