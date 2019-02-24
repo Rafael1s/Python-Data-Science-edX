@@ -68,7 +68,12 @@ The conditions are as follows: No Satarday, No Sunday, 0 < TimeHour < 6.
 
 ### Plot (Latitude, Longitude)-distribution for each phone
 
-![]phones_1-3.png
-![]phones_4-5.png
-![]phones_6-8.png
-![]phones_9-10.png
+![](phones_1-3.png)
+
+![](phones_4-5.png)
+
+![](phones_6-8.png)
+
+![](phones_9-10.png)
+
+
