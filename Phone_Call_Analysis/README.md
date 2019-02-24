@@ -26,16 +26,16 @@ for i in range(np.size(users)):
     
 We get the following results per each phone number:
 
-0 , phone:  4638472273  len of recorsd  3648
-1 , phone:  1559410755  len of recorsd  11633
-2 , phone:  4931532174  len of recorsd  2896
-3 , phone:  2419930464  len of recorsd  2497
-4 , phone:  1884182865  len of recorsd  2865
-5 , phone:  3688089071  len of recorsd  1610
-6 , phone:  4555003213  len of recorsd  2410
-7 , phone:  2068627935  len of recorsd  5835
-8 , phone:  2894365987  len of recorsd  12053
-9 , phone:  8549533077  len of recorsd  7741 
+* 0 , phone:  4638472273  len of recorsd  3648
+* 1 , phone:  1559410755  len of recorsd  11633
+* 2 , phone:  4931532174  len of recorsd  2896
+* 3 , phone:  2419930464  len of recorsd  2497
+* 4 , phone:  1884182865  len of recorsd  2865
+* 5 , phone:  3688089071  len of recorsd  1610
+* 6 , phone:  4555003213  len of recorsd  2410
+* 7 , phone:  2068627935  len of recorsd  5835
+* 8 , phone:  2894365987  len of recorsd  12053
+* 9 , phone:  8549533077  len of recorsd  7741 
 
 ### Weekend calls, phone = 4638472273
 
@@ -66,3 +66,9 @@ The conditions are as follows: No Satarday, No Sunday, 0 < TimeHour < 6.
 * Phone:  2894365987 all rows of coord from 13:00 to 16:00 =  413
 * Phone:  8549533077 all rows of coord from 13:00 to 16:00 =  317
 
+### Plot (Latitude, Longitude)-distribution for each phone
+
+![]phones_1-3.png
+![]phones_4-5.png
+![]phones_6-8.png
+![]phones_9-10.png
